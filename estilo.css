@@ -1,0 +1,67 @@
+*{
+	margin: 0px;
+
+}
+header{
+	height: 100px;
+	background: lightgrey;
+	text-align: center;
+	line-height: 50px;
+	border-style: double;
+}
+
+section{
+	height: 80%;
+	width: 80%;
+	background: lightblue;
+	border-style: groove;
+	float: left;
+
+}
+
+h2{
+	
+	font-family:  cursive;
+}
+
+p {
+	font-family: all;
+	font-size: 20px;
+}
+
+.article{
+	margin: 10px;
+	padding: 5px;
+	border-bottom: dashed;
+}
+
+div{
+	border-style: double;
+}
+
+aside{
+	float: left;
+}
+
+.clearfix{
+	clear: both;
+}
+
+footer{
+	text-align: center;
+}
+
+img{
+	height: 250px;
+	width: 250px;
+	margin: 5px;
+	padding: 0px;
+
+}
+
+video{
+	height: 250px;
+	width: 250px;
+	margin: 5px;
+	padding: 0px;
+}
